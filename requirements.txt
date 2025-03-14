@@ -1,4 +1,4 @@
-echo "flask
+flask
 torch
 transformers
-azure-storage-blob" > requirements.txt
+azure-storage-blob
