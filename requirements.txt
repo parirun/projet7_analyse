@@ -2,3 +2,4 @@ flask
 torch
 transformers
 azure-storage-blob
+gunicorn
